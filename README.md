@@ -1,2 +1,5 @@
 # Point-Net
-pytorch implementation for "PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation" https://arxiv.org/abs/1612.00593
+Deep Learning CV project developed w. Vittorio Pellegrini, Andrea Silvi for Prof. Barbara Caputo Deep Learning course @Polytechnic of Turin y 2020/21
+
+Includes our implementations and experiments on Point Cloud Reconstruction, Point Cloud Completion and Multi Task Learning.
+The Report files describes all the steps and also the modification applied to the original Neural Network to try to improve it.

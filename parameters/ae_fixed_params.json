@@ -1,0 +1,20 @@
+{
+    "lr": 0.0001,
+    "weight_decay": 1e-3,
+    "scheduler_gamma": 0.2,
+    "nepoch": 3,
+    "dataset": "/content/drive/MyDrive/shapenetcore_partanno_segmentation_benchmark_v0",
+    "batchSize": 32,
+    "num_points": 2048,
+    "workers": 2,
+    "outf":  "cls",
+    "model": "",
+    "train_class_choice": "mug",
+    "test_class_choice": "mug",
+    "scheduler_stepSize": 40,
+    "beta_1": 0.9,
+    "beta_2": 0.999,
+    "patience": 50,
+    "final_training": 0
+
+}
